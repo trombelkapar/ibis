@@ -1,0 +1,18 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: blanchedalmond;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+h1 {
+    text-align: center;
+}
+#header_image {
+    display: block;
+    margin: auto;
+    width: 20vw;
+}
