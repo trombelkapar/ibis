@@ -16,3 +16,36 @@ h1 {
     margin: auto;
     width: 20vw;
 }
+header {
+    background-color: cadetblue;
+}
+footer {
+    background-color: cadetblue;
+    text-align: center;
+}
+section {
+    margin: 5vw;
+    padding: 5vw;
+    border-radius: 20px;
+    background-color: aquamarine;
+}
+#amazing_pics {
+    background-color: darkorange;
+}
+p {
+    margin-top: 1vw;
+}
+ul {
+    margin-left: 1vw;
+}
+img {
+    width: 40%;
+    display: inline-block;
+    position: relative;
+}
+#img1 {
+    top: 5px;
+} 
+#img4 {
+    top: -350px;
+}
